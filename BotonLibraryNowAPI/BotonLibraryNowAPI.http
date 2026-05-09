@@ -1,0 +1,6 @@
+@BotonLibraryNowAPI_HostAddress = http://localhost:5140
+
+GET {{BotonLibraryNowAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
